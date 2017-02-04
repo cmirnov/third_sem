@@ -1,0 +1,11 @@
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\instagramm\TestSecond\TestSecond\bin\Debug\TestSecond.exe.config
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\instagramm\TestSecond\TestSecond\bin\Debug\TestSecond.exe
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\instagramm\TestSecond\TestSecond\bin\Debug\TestSecond.pdb
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\instagramm\TestSecond\TestSecond\bin\Debug\Contracts.dll
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\instagramm\TestSecond\TestSecond\bin\Debug\Contracts.pdb
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\instagramm\TestSecond\TestSecond\obj\Debug\SecondTest.csprojResolveAssemblyReference.cache
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\instagramm\TestSecond\TestSecond\obj\Debug\TestSecond.SecondTest.resources
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\instagramm\TestSecond\TestSecond\obj\Debug\TestSecond.Properties.Resources.resources
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\instagramm\TestSecond\TestSecond\obj\Debug\SecondTest.csproj.GenerateResource.Cache
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\instagramm\TestSecond\TestSecond\obj\Debug\TestSecond.exe
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\instagramm\TestSecond\TestSecond\obj\Debug\TestSecond.pdb

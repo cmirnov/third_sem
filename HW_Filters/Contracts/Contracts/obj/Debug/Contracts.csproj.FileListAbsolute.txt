@@ -1,0 +1,5 @@
+C:\Users\Kirill\Documents\GitHub\spsu-mm-programming-second-course\HW_Filters\Contracts\Contracts\bin\Debug\Contracts.dll.config
+C:\Users\Kirill\Documents\GitHub\spsu-mm-programming-second-course\HW_Filters\Contracts\Contracts\bin\Debug\Contracts.dll
+C:\Users\Kirill\Documents\GitHub\spsu-mm-programming-second-course\HW_Filters\Contracts\Contracts\bin\Debug\Contracts.pdb
+C:\Users\Kirill\Documents\GitHub\spsu-mm-programming-second-course\HW_Filters\Contracts\Contracts\obj\Debug\Contracts.dll
+C:\Users\Kirill\Documents\GitHub\spsu-mm-programming-second-course\HW_Filters\Contracts\Contracts\obj\Debug\Contracts.pdb

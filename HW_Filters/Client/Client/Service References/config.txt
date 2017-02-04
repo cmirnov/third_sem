@@ -1,0 +1,166 @@
+
+                <binding name="BasicHttpBinding_IService11" />
+                <binding name="BasicHttpBinding_IService12" />
+                <binding name="BasicHttpBinding_IService13" />
+                <binding name="BasicHttpBinding_IService14" />
+                <binding name="BasicHttpBinding_IService15" />
+                <binding name="BasicHttpBinding_IService16" />
+                <binding name="BasicHttpBinding_IService17" />
+                <binding name="BasicHttpBinding_IService18" />
+                <binding name="BasicHttpBinding_IService19" />
+                <binding name="BasicHttpBinding_IService110" />
+                <binding name="BasicHttpBinding_IService111" />
+                <binding name="BasicHttpBinding_IService112" />
+                <binding name="BasicHttpBinding_IService113" />
+                <binding name="BasicHttpBinding_IService114" />
+                <binding name="BasicHttpBinding_IService115" />
+                <binding name="BasicHttpBinding_IService116" />
+                <binding name="BasicHttpBinding_IService117" />
+                <binding name="BasicHttpBinding_IService118" />
+                <binding name="BasicHttpBinding_IService119" />
+                <binding name="BasicHttpBinding_IService120" />
+                <binding name="BasicHttpBinding_IService121" />
+                <binding name="BasicHttpBinding_IService122" />
+                <binding name="BasicHttpBinding_IService123" />
+                <binding name="BasicHttpBinding_IService124" />
+                <binding name="BasicHttpBinding_IService125" />
+                <binding name="BasicHttpBinding_IService126" />
+                <binding name="BasicHttpBinding_IService127" />
+                <binding name="BasicHttpBinding_IService128" />
+                <binding name="BasicHttpBinding_IService129" />
+                <binding name="BasicHttpBinding_IService130" />
+                <binding name="BasicHttpBinding_IService131" />
+                <binding name="BasicHttpBinding_IService132" />
+                <binding name="BasicHttpBinding_IService133" />
+                <binding name="BasicHttpBinding_IService134" />
+                <binding name="BasicHttpBinding_IService135" />
+                <binding name="BasicHttpBinding_IService136" />
+                <binding name="BasicHttpBinding_IService137" />
+                <binding name="BasicHttpBinding_IService138" />
+                <binding name="BasicHttpBinding_IService139" />
+                <binding name="BasicHttpBinding_IService140" />
+                <binding name="BasicHttpBinding_IService141" />
+
+ <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService11"
+                contract="ServiceReference2.IService1" name="BasicHttpBinding_IService11" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService12"
+                contract="ServiceReference3.IService1" name="BasicHttpBinding_IService12" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService13"
+                contract="ServiceReference4.IService1" name="BasicHttpBinding_IService13" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService14"
+                contract="ServiceReference5.IService1" name="BasicHttpBinding_IService14" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService15"
+                contract="ServiceReference6.IService1" name="BasicHttpBinding_IService15" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService16"
+                contract="ServiceReference7.IService1" name="BasicHttpBinding_IService16" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService17"
+                contract="ServiceReference8.IService1" name="BasicHttpBinding_IService17" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService18"
+                contract="ServiceReference9.IService1" name="BasicHttpBinding_IService18" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService19"
+                contract="ServiceReference10.IService1" name="BasicHttpBinding_IService19" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService110"
+                contract="ServiceReference11.IService1" name="BasicHttpBinding_IService110" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService111"
+                contract="ServiceReference12.IService1" name="BasicHttpBinding_IService111" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService112"
+                contract="ServiceReference13.IService1" name="BasicHttpBinding_IService112" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService113"
+                contract="ServiceReference14.IService1" name="BasicHttpBinding_IService113" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService114"
+                contract="ServiceReference15.IService1" name="BasicHttpBinding_IService114" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService115"
+                contract="ServiceReference16.IService1" name="BasicHttpBinding_IService115" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService116"
+                contract="ServiceReference17.IService1" name="BasicHttpBinding_IService116" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService117"
+                contract="ServiceReference18.IService1" name="BasicHttpBinding_IService117" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService118"
+                contract="ServiceReference19.IService1" name="BasicHttpBinding_IService118" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService119"
+                contract="ServiceReference20.IService1" name="BasicHttpBinding_IService119" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService120"
+                contract="ServiceReference21.IService1" name="BasicHttpBinding_IService120" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService121"
+                contract="ServiceReference22.IService1" name="BasicHttpBinding_IService121" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService122"
+                contract="ServiceReference23.IService1" name="BasicHttpBinding_IService122" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService123"
+                contract="ServiceReference24.IService1" name="BasicHttpBinding_IService123" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService124"
+                contract="ServiceReference25.IService1" name="BasicHttpBinding_IService124" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService125"
+                contract="ServiceReference26.IService1" name="BasicHttpBinding_IService125" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService126"
+                contract="ServiceReference27.IService1" name="BasicHttpBinding_IService126" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService127"
+                contract="ServiceReference28.IService1" name="BasicHttpBinding_IService127" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService128"
+                contract="ServiceReference29.IService1" name="BasicHttpBinding_IService128" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService129"
+                contract="ServiceReference30.IService1" name="BasicHttpBinding_IService129" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService130"
+                contract="ServiceReference31.IService1" name="BasicHttpBinding_IService130" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService131"
+                contract="ServiceReference32.IService1" name="BasicHttpBinding_IService131" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService132"
+                contract="ServiceReference33.IService1" name="BasicHttpBinding_IService132" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService133"
+                contract="ServiceReference34.IService1" name="BasicHttpBinding_IService133" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService134"
+                contract="ServiceReference35.IService1" name="BasicHttpBinding_IService134" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService135"
+                contract="ServiceReference36.IService1" name="BasicHttpBinding_IService135" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService136"
+                contract="ServiceReference37.IService1" name="BasicHttpBinding_IService136" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService137"
+                contract="ServiceReference38.IService1" name="BasicHttpBinding_IService137" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService138"
+                contract="ServiceReference39.IService1" name="BasicHttpBinding_IService138" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService139"
+                contract="ServiceReference40.IService1" name="BasicHttpBinding_IService139" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService140"
+                contract="ServiceReference41.IService1" name="BasicHttpBinding_IService140" />
+            <endpoint address="http://localhost:8733/Design_Time_Addresses/Contracts/Service1/"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IService141"
+                contract="ServiceReference42.IService1" name="BasicHttpBinding_IService141" />
